@@ -3,12 +3,12 @@
   <img src="coding.gif" alt="Chào mừng đến với Profile của tôi!" width="600"/>
 </p>
 
-<h1 align="center">Chào bạn 👋, mình là [Tên Của Bạn]!</h1>
+<h1 align="center">Chào bạn 👋, mình tên là Trần Hữu Đạt!</h1>
 <h3 align="center">Một [Chức Danh/Vai Trò Của Bạn - ví dụ: Lập trình viên Fullstack, Sinh viên CNTT] đam mê [Lĩnh Vực Đam Mê - ví dụ: phát triển web, AI, open source].</h3>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[TranHuuDat2004]&label=Profile%20views&color=0e75b6&style=flat" alt="[TranHuuDat2004]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TranHuuDat2004&label=Profile%20views&color=0e75b6&style=flat" alt="TranHuuDat2004" /> </p>
 
 <!-- Biểu tượng mạng xã hội -->
 <p align="left">
@@ -61,13 +61,13 @@
 *(Thay `[TÊN_USERNAME_GITHUB_CỦA_BẠN]` bằng username của bạn)*
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TranHuuDat2004]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TranHuuDat2004]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TranHuuDat2004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHuuDat2004&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 *(Tùy chọn thêm: Streak Stats)*
 <!-- <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[TÊN_USERNAME_GITHUB_CỦA_BẠN]&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TranHuuDat2004&theme=dracula"/>
 </p> -->
 
 ---
@@ -80,7 +80,7 @@
 2.  **[Tên Dự Án 2](LINK_REPO_2):** Mô tả ngắn gọn về dự án và công nghệ sử dụng.
 3.  **[Tên Dự Án 3](LINK_REPO_3):** Mô tả ngắn gọn về dự án và công nghệ sử dụng.
 
-*   ➡️ Xem thêm các dự án khác của mình tại [tab Repositories](https://github.com/[TranHuuDat2004]?tab=repositories).
+*   ➡️ Xem thêm các dự án khác của mình tại [tab Repositories](https://github.com/TranHuuDat2004?tab=repositories).
 
 ---
 
