@@ -1,6 +1,6 @@
 <!-- Bắt đầu bằng một Banner/GIF chào mừng -->
 <p align="center">
-  <img src="URL_TO_YOUR_WELCOME_GIF_OR_BANNER" alt="Chào mừng đến với Profile của tôi!" width="600"/>
+  <img src="coding.gif" alt="Chào mừng đến với Profile của tôi!" width="600"/>
 </p>
 
 <h1 align="center">Chào bạn 👋, mình là [Tên Của Bạn]!</h1>
@@ -8,7 +8,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=[TÊN_USERNAME_GITHUB_CỦA_BẠN]&label=Profile%20views&color=0e75b6&style=flat" alt="[TÊN_USERNAME_GITHUB_CỦA_BẠN]" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=[TranHuuDat2004]&label=Profile%20views&color=0e75b6&style=flat" alt="[TranHuuDat2004]" /> </p>
 
 <!-- Biểu tượng mạng xã hội -->
 <p align="left">
@@ -61,8 +61,8 @@
 *(Thay `[TÊN_USERNAME_GITHUB_CỦA_BẠN]` bằng username của bạn)*
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TÊN_USERNAME_GITHUB_CỦA_BẠN]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TÊN_USERNAME_GITHUB_CỦA_BẠN]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TranHuuDat2004]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TranHuuDat2004]&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 *(Tùy chọn thêm: Streak Stats)*
@@ -80,7 +80,7 @@
 2.  **[Tên Dự Án 2](LINK_REPO_2):** Mô tả ngắn gọn về dự án và công nghệ sử dụng.
 3.  **[Tên Dự Án 3](LINK_REPO_3):** Mô tả ngắn gọn về dự án và công nghệ sử dụng.
 
-*   ➡️ Xem thêm các dự án khác của mình tại [tab Repositories](https://github.com/[TÊN_USERNAME_GITHUB_CỦA_BẠN]?tab=repositories).
+*   ➡️ Xem thêm các dự án khác của mình tại [tab Repositories](https://github.com/[TranHuuDat2004]?tab=repositories).
 
 ---
 
